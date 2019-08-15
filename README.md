@@ -1,2 +1,2 @@
 # UNIVERBANK
-UNIVERBANK - Nesneye Dayalı Programlama Banka Otomasyon Projesi
+UNIVERBANK - Object Oriented Prog. (Bank Automation Project)
